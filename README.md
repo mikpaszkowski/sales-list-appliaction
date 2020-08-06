@@ -5,7 +5,7 @@ Mentioned application called - "Sales List App" would be a simple
 Spring Boot Application with usage of MySQL, JPA and Hibernate.
 
 User may use this app to store informations about his clients.
-The app would fulfill typical requsts such as :
+The app would fulfill typical requests such as :
 
 * add (client)
 * delete (client)
